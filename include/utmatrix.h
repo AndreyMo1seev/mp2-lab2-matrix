@@ -7,13 +7,14 @@
 
 #ifndef __TMATRIX_H__
 #define __TMATRIX_H__
-
+//AndreyMo1seev
 #include <iostream>
 
 using namespace std;
 
 const int MAX_VECTOR_SIZE = 100000000;
 const int MAX_MATRIX_SIZE = 10000;
+const int MAX_MATRIX_SIZE1 = 10000;
 
 // Шаблон вектора
 template <class ValType>
